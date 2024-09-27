@@ -46,4 +46,4 @@
 1. https://delsys.com/downloads/TUTORIAL/imaging-the-behavior-of-mu-by-decomposition-of-the-emg-signal.pdf
 
 #### Basic Signal Analysis 
-3. https://delsys.com/downloads/TECHNICALNOTE/103-emg-signal-analysis.pdf
+1. https://delsys.com/downloads/TECHNICALNOTE/103-emg-signal-analysis.pdf
